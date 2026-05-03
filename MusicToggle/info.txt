@@ -1,0 +1,12 @@
+{
+    "Name": "Music Background Toggle",
+    "ID": "bg_music_toggle",
+    "Author": "Blupillcosby",
+    "Description": "Toggles 'Music in background' with M (focused) or Ctrl+M (global). Fixes the game engine bug where music doesn't resume while tabbed out.",
+    "ModVersion": 1.8,
+    "GameVersion": 2.052,
+    "Date": "03/05/2026",
+    "Dependencies": [],
+    "LanguagePacks": ["EN"],
+    "AllowSteamAchievs": true
+}
